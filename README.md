@@ -29,6 +29,7 @@ Part 5 covers what you need to know before going to production - cost, security,
 
 
 ## Homework
+Complete the hands-on assignment to test your understanding of AI Copilot, RAG workflows, and agents in Kestra.
 
 
 ## Extra Resources
